@@ -1,5 +1,5 @@
 #include "arg.hpp"
-//что делать
+//что делатъ
 #include <iostream>
 //что-то надо
 #include "command.hpp"
